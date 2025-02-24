@@ -1,0 +1,23 @@
+body {
+    background-color: blue;
+  }
+  h2 {
+    border: 2px solid powderblue;
+  }
+  p {
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+  a:link {
+    color: purple;
+  }
+  a:visited {
+    color: green;
+  }
+  .highlight{ 
+    border: 2px solid powderblue;
+  padding: 30px;
+  }
+  .alert{
+    color: darkred;
+  }
